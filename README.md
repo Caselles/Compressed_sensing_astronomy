@@ -15,6 +15,8 @@ We used Python 2.7.
 In models.py, one can find the 3 algorithms we implemented in this project which are Hard and Soft-thresholding and Multiresolution mask denoising algorithm, and the implementation of the starlet transform.
 
 In order to reproduce the results of the Notebook, the data (ngc2997.fits and AstroImages.fits) are provided in this repository.
+
+
 ------------------------------------------
 
 If you have any questions : casellesdupre.hugo@gmail.com.
