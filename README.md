@@ -1,6 +1,6 @@
 # Compressed_sensing_astronomy
 
-Author : Hugo Caselles-Dupré
+Authors : Hugo Caselles-Dupré & Philippe Peroumal
 
 Disclaimer : several syntax errors can exist in the code. Use it wisely.
 
